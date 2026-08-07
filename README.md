@@ -13,4 +13,17 @@ In addition to the ARC M1 AMS, the extruder has been designed with compatibility
 The extruder incorporates a compact modular body that reduces moving mass, improving acceleration and print stability while minimizing ringing at high print speeds. Its optimized filament path supports both rigid and flexible materials by reducing unsupported filament travel and improving feeding consistency.
 
 Designed for open-source development and future upgrades, the ARC M1 Custom BMG Extruder features serviceable components, simplified maintenance, and modular construction for easy replacement of gears, bearings, and wear parts. Combined with the ARC M1 printer platform and Klipper-based control system, the extruder delivers fast, accurate, and dependable material extrusion for modern high-speed, multi-color additive manufacturing applications, making it suitable for makers, educational institutions, research laboratories, and industrial prototyping environments.
-<img width="1617" height="723" alt="Screenshot 2026-08-05 025624" src="https://github.com/user-attachments/assets/27d7fa47-e396-443c-bf59-396d028ddfe1" />
+
+Extruder Filament seperator consists of pressure release zone that remove the bending pressure of filament and prevent from bending .<img width="706" height="700" alt="Screenshot 2026-08-08 020424" src="https://github.com/user-attachments/assets/1190aecb-7c44-4b4c-85b0-2b108202ac7d" />
+# Two pressure release zones to prevent bending and access pressure from friction.
+
+Inbuild insertion threads for easy insertion of Panumatic air connectors <img width="934" height="715" alt="Screenshot 2026-08-08 020718" src="https://github.com/user-attachments/assets/6e9311ff-dc6c-4792-9be1-723c20b54548" />
+
+Easy to print and use and repair and Printable Design with toughness of BMG Gears:
+<img width="566" height="623" alt="Screenshot 2026-08-08 020906" src="https://github.com/user-attachments/assets/e653f0ee-e593-4955-ae30-aa8c3a21a8bd" />
+
+# CAN PRINT 6, 12 OR 18 COLOR EQUIP WITH AMS UNIT
+<img width="1613" height="717" alt="Screenshot 2026-08-05 025636" src="https://github.com/user-attachments/assets/2577b2d7-2486-4d73-84a2-64106555d487" />
+<img width="1617" height="723" alt="Screenshot 2026-08-05 025624" src="https://github.com/user-attachments/assets/932bef41-be6b-4d0d-b851-c64bf08e9458" />
+
+
